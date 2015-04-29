@@ -14,7 +14,7 @@ It acts solely on command line attached with long-lived access token (60 days). 
 ###Installation
 Make sure you have python installed on your system.
 
-On Windows, follow steps in this (link)[http://www.howtogeek.com/197947/how-to-install-python-on-windows/].
+On Windows, follow steps in this [link](http://www.howtogeek.com/197947/how-to-install-python-on-windows/).
 
 On Mac, and Linux system, normally you can use 
 
