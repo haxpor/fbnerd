@@ -44,7 +44,7 @@ or
 * --attach_description
 * --attach_picture (image link)
 
-**Phoyo post**
+**Photo post**
 
 `python fbnerd.py -t photo -p "/Users/haxpor/image.jpg" -m "Check out this photo!"` 
 
