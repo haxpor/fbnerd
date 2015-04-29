@@ -50,7 +50,7 @@ or
 
 or
 
-`python fbnerd.py -type photo -path "/Users/haxpor/image.jpg" --message "Check out this photo!"`
+`python fbnerd.py --type photo --path "/Users/haxpor/image.jpg" --message "Check out this photo!"`
 
 ### Contact
 Just saying hi is pretty much welcome :)
