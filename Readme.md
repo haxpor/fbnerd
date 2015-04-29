@@ -9,7 +9,7 @@ The features are limited and really simple.
 
 The purpose of creating of this program is to avoid the risk of experiencing the depressed state when browsing through the feeds or acidentally see certain post that could cause you depressed.
 
-It acts solely on command line attached with long-lived access token (60 days). When I have a solution or time to add a log-in flow, then it will can be used without any worry of re-acquire access token again.
+It acts solely on command line attached with long-lived access token (60 days). When I have a solution or time to add a log-in flow, then it can be used without any worry of re-acquire access token again.
 
 ###Installation
 Make sure you have python installed on your system.
